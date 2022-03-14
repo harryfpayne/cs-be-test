@@ -1,0 +1,15 @@
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/csharp-be-test
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/csharp-be-test.deps.json
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/csharp-be-test.runtimeconfig.json
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/csharp-be-test.dll
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/ref/csharp-be-test.dll
+/Users/harry/dev/csharp-be-test/bin/Debug/net6.0/csharp-be-test.pdb
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.csproj.AssemblyReference.cache
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.AssemblyInfoInputs.cache
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.AssemblyInfo.cs
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.csproj.CoreCompileInputs.cache
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.dll
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/ref/csharp-be-test.dll
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.pdb
+/Users/harry/dev/csharp-be-test/obj/Debug/net6.0/csharp-be-test.genruntimeconfig.cache
